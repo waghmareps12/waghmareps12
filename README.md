@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on automating work stuff with python 
 - 🌱 I’m currently learning about LLMS/AI
 - 💬 Ask me about AI/ML/DS
-- 📫 How to reach me: https://www.linkedin.com/in/waghmareps12
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/waghmareps12)
 - 😄 Pronouns: he/him
 
